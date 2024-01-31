@@ -3,7 +3,9 @@ A Snake Game Project of My Third Semester in nasm on Dosbox
 <br>
 Code in Assembly Language.
 <br>
+<b>
 Instructions
+</b>
 <br>
 1)Control the movement of the snake in the game using keys w,s,d,e or arrow keys.
 <br>
