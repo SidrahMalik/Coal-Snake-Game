@@ -12,6 +12,11 @@ Instructions
 2)Eat the food to increase the size of the snake and to increase score.
 <br>
 3)Avoid touching the boundry otherwise snake will die and as a result game will be over.
+<br>
+<b>
+SnapShots
+</b>
+<br>
 ![image](https://github.com/SidrahMalik/Coal-Snake-Game/assets/158201665/89e27242-a144-412e-8742-3dc64668ca18)
 
 
